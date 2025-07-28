@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">权限管理应用</string>
+    <string name="permission_title">权限管理</string>
+    <string name="permission_info">请仔细阅读每个权限的用途说明，然后选择是否授权。\n您可以随时在设置中撤销这些权限。</string>
+    <string name="contacts_permission">通讯录权限</string>
+    <string name="location_permission">位置权限</string>
+    <string name="camera_permission">相机权限</string>
+    <string name="storage_permission">存储权限</string>
+    <string name="microphone_permission">麦克风权限</string>
+    <string name="grant_all">全部授权</string>
+    <string name="deny_all">拒绝全部</string>
+    <string name="view_data">查看数据</string>
+    <string name="settings">权限设置</string>
+    <string name="granted">已授权</string>
+    <string name="not_granted">未授权</string>
+</resources> 
